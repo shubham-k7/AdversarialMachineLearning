@@ -26,3 +26,9 @@ http://www.covert.io/deep-learning-security-papers/
 https://blog.openai.com/adversarial-example-research/
 
 https://github.com/tensorflow/cleverhans
+
+https://github.com/cchio/deep-pwning
+
+https://github.com/rodgzilla/machine_learning_adversarial_examples
+
+https://github.com/yenchenlin/awesome-adversarial-machine-learning
