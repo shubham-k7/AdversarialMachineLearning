@@ -32,3 +32,19 @@ https://github.com/cchio/deep-pwning
 https://github.com/rodgzilla/machine_learning_adversarial_examples
 
 https://github.com/yenchenlin/awesome-adversarial-machine-learning
+
+
+
+https://www.youtube.com/watch?v=sUgIS6a665k
+
+https://www.youtube.com/watch?v=CQxwdqzlgWI
+
+https://www.youtube.com/watch?v=XYJamxDROOs
+
+https://www.youtube.com/watch?v=yIXNL88JBWQ
+
+https://www.youtube.com/watch?v=oQr0gODUiZo
+
+https://www.youtube.com/watch?v=NrGMvTZxAwU
+
+https://pralab.diee.unica.it/en/Videolectures
