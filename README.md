@@ -1,5 +1,6 @@
 # Adversarial Machine Learning
 
+Course resources
 
 https://www.youtube.com/watch?v=Nwt1i6vOkC8
 
